@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/aliyun-java-sdk-core-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/aliyun-java-sdk-sts-2.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/aliyun-sdk-oss-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/jdom-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="D:/work/oss/java-sdk/aliyun-sts-java-sdk-demo/sts-sdk-demo-eclipse/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
