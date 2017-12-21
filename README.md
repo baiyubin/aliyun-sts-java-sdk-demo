@@ -1,2 +1,2 @@
 # aliyun-sts-java-sdk-demo
-Aliyun STS Java SDK示例
+Aliyun STS Java SDK Demo
